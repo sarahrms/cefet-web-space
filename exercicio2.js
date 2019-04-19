@@ -9,3 +9,10 @@ const servidorDasImagens = 'https://fegemo.github.io/cefet-web/images/',
     'philae-67-picture.jpg',
     'philae-collecting.jpg'
   ];
+
+let botaoAnterior = document.getElementByID("#anterior");
+let botaoProximo = document.getElementByID("#proximo");
+
+botaoAnterior.addEventListener("click", function() {
+
+});
